@@ -5,7 +5,7 @@ langchain-core
 langchain-openai
 langchain-pinecone==0.2.0
 livekit
-livekit-agents
+livekit-agents==1.2.5
 livekit-api
 livekit-plugins-noise-cancellation
 livekit-plugins-openai
