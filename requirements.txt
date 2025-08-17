@@ -7,8 +7,11 @@ langchain-pinecone
 livekit
 livekit-agents==1.2.5
 livekit-api
+livekit-plugins-deepgram
 livekit-plugins-noise-cancellation
 livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-turn-detector
 livekit-protocol
 openai
 pinecone==5.3.1
@@ -18,4 +21,3 @@ regex==2025.7.34
 requests==2.32.4
 tiktoken==0.11.0
 tokenizers==0.21.4
-
